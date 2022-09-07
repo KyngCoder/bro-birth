@@ -129,17 +129,17 @@ small{
 }
 
 .one{
-    transform:translate(-100px,-320px);
+    transform:translate(-100px,-360px);
     transition:5s;
 }
 
 .two{
-    transform:translate(40px,-360px);
+    transform:translate(40px,-400px);
     transition:4s;
 }
 
 .three{
-    transform:translate(-20px,-330px);
+    transform:translate(-20px,-370px);
     transition:5s;
 }
 
@@ -198,7 +198,7 @@ button:hover{
     width: 200px;
     height: 200px;
     bottom: 100px;
-    left: 27vw;
+    left: 24vw;
     color:#7B020B
 }
 
