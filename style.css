@@ -5,6 +5,9 @@
     padding:0;
     
 }
+
+
+
 .container {
     filter:brightness(0);
     height:100vh;
@@ -13,6 +16,7 @@
     justify-content:center;
     align-items:center;
     background:grey;
+ 
 }
 
 .prize{
@@ -20,7 +24,7 @@
     display:flex;
     justify-content:flex-start;
     align-items:flex-end;
-    padding-bottom: 2rem;
+    padding-bottom: 5rem;
 }
 
 .present{
@@ -90,7 +94,7 @@ small{
     height:40px;
     font-size: 40px;
     padding:10px;
-    
+   
 }
 
 .day{
@@ -125,17 +129,17 @@ small{
 }
 
 .one{
-    transform:translate(-150px,-300px);
+    transform:translate(-100px,-320px);
     transition:5s;
 }
 
 .two{
-    transform:translate(-10px,-340px);
+    transform:translate(40px,-360px);
     transition:4s;
 }
 
 .three{
-    transform:translate(-70px,-320px);
+    transform:translate(-20px,-330px);
     transition:5s;
 }
 
@@ -194,7 +198,7 @@ button:hover{
     width: 200px;
     height: 200px;
     bottom: 100px;
-    left: 30vw;
+    left: 27vw;
     color:#7B020B
 }
 
